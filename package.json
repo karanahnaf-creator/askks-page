@@ -1,17 +1,14 @@
 {
-  "name": "python",
+  "name": "askks-growth-portal",
   "version": "1.0.0",
-  "description": "",
   "main": "server1.js",
   "scripts": {
     "start": "node server1.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "express": "^5.2.1",
-    "path-to-regexp": "^8.4.2"
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
